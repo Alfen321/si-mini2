@@ -1,0 +1,44 @@
+[
+    {
+        "brand": "Audi",
+        "model": "rs6",
+        "description": "The Audi RS 6 is a high-performance variant of the Audi A6 range."
+    },
+    {
+        "brand": "Audi",
+        "model": "s5",
+        "description": "The Audi S5 is the high-performance variant of Audi's A5."
+    },
+    {
+        "brand": "Audi",
+        "model": "r8",
+        "description": "The Audi R8 is a mid-engine, 2-seater sports car."
+    },
+    {
+        "brand": "Volkswagen",
+        "model": "Passat",
+        "description": "The Volkswagen Passat is a large family car manufactured and marketed by Volkswagen since 1973."
+    },
+    {
+        "brand": "Volkswagen",
+        "model": "Golf",
+        "description": "The Volkswagen Golf is a compact car produced by the German automotive manufacturer Volkswagen since 1974."
+    },
+    {
+        "brand": "Volkswagen",
+        "model": "Polo",
+        "description": "The Volkswagen Polo is a car produced by the German manufacturer Volkswagen since 1975."
+    },
+    {
+        "brand": "Volvo",
+        "model": "970"
+    },
+    {
+        "brand": "Volvo",
+        "model": "940"
+    },
+    {
+        "brand": "Volvo",
+        "model": "XC90"
+    }
+]
